@@ -1,9 +1,20 @@
+![WBS Coding School](https://mlsf03rmjfdn.i.optimole.com/fVWTwdQ.Z_5R~130ed/w:auto/h:auto/q:90/https://www.wbscodingschool.com/files/WBS_CODING_SCHOOL_logo.svg)
+
 # React Recap WD#012
 
 ## Install
 
 ```bash
-git clone
+git clone https://github.com/weyvern/React-Recap-WD-012
+
+cd React-Recap-WD-012/
+npm install
+```
+
+## Start dev
+
+```bash
+npm start
 ```
 
 ## Topics
