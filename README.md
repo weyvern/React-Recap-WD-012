@@ -27,13 +27,13 @@ npm start
 [x] Synthetic events (onClick, onSubmit...)
 [x] Hooks: useState & useEffect
 [x] Conditional rendering
-[ ] Router
-[ ] Bonus: fetching data into a component's Stateless (GET/POST)
+[x] Fetching data into a component's Stateless (GET/POST)
+[ ] Bonus: Router
 
 # Students' suggestions:
 
-[ ]React Bootstrap
+[ ] React Bootstrap
 [x] export/import (discuss what? when?)
-[ ] REST API vs GraphQL (discuss)
-[ ] Contentful API
+[x] REST API vs GraphQL (discuss)
+[x] Contentful API
 [ ] Link vs Update component with data
